@@ -2,8 +2,7 @@
 
 int main(){
 
-std::cout<<"io sono Giacomo e ho modificato"<<std::endl;
-
+std::cout<<"io sono Giacomo e ho modificato e mi sto divertendo"<<std::endl; 
 return 0;
 
 ]
