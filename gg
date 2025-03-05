@@ -2,9 +2,7 @@
 
 int main(){
 
-std::cout<<"io sono Giacomo e ho modificato e mi sto divertendo"<<std::endl; 
-std::cout<<"io no"<<std::endl;
-questa cagata sta solo nella branch 
+std::cout<<"io sono Giacomo"<<std::endl; 
 
 return 0;
 
